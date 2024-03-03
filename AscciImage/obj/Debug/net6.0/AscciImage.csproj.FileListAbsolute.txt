@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\AscciImage\AscciImage\bin\Debug\net6.0\AscciImage.exe
+C:\Users\lucas\source\repos\AscciImage\AscciImage\bin\Debug\net6.0\AscciImage.deps.json
+C:\Users\lucas\source\repos\AscciImage\AscciImage\bin\Debug\net6.0\AscciImage.runtimeconfig.json
+C:\Users\lucas\source\repos\AscciImage\AscciImage\bin\Debug\net6.0\AscciImage.dll
+C:\Users\lucas\source\repos\AscciImage\AscciImage\bin\Debug\net6.0\AscciImage.pdb
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.dll
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\refint\AscciImage.dll
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.pdb
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.genruntimeconfig.cache
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\ref\AscciImage.dll
+C:\Users\lucas\source\repos\AscciImage\AscciImage\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\AscciImage\AscciImage\obj\Debug\net6.0\AscciImage.csproj.CopyComplete

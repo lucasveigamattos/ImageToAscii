@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fyziO8ygvdcw0Kma+TJk9M7gB2M/ZgIiXmf/hKLI2WqiRcJMNIKmYddT2+g8jMcUilmTRoMENIVuLplmcmeVNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\AscciImage\\AscciImage\\AscciImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\sixlabors.imagesharp\\3.1.2\\sixlabors.imagesharp.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
